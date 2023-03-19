@@ -19,7 +19,7 @@
       -Creating many measures like sale growth with month,quarter etc
       -Developing aggregate function using measures like Gross Profit,total Revenue etc
       
-    ### Developing the Dashboard
+   ### Developing the Dashboard
        -Slicer-Year and Months
        -Card -Aggregate values like Total Revenue,Growth,Total Units
        -Table-Date wise revenue
